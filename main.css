@@ -1,0 +1,159 @@
+ @import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+             @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+            
+               
+            #content {
+            width:90%;
+            max-width: 90%;
+            margin: 0 auto;
+        }    
+
+            h1,h2,h3,h4
+                {
+                color:black;
+            font-family: "Rock Salt", Helvetica, sans-serif;
+            font-size:25px;
+            }
+            
+            #white-water-adventures{
+                color:#FF3303;
+                font-family: "Rock Salt", "Roboto Condensed", Helvetica;
+                font-size: 40px;
+            }
+            
+            .logo-image{
+                width: 130px;
+                border: 5px solid black;
+                position: relative;
+                display: inline-block;
+                
+            }
+            
+            body
+            {
+            font-family:"Roboto Condensed", Arial, sans-serif;
+                font-size:16px;
+                width:auto;
+                
+            background-image:url("https://s-media-cache-ak0.pinimg.com/originals/f9/c8/e2/f9c8e29ab358351b58f5d97c2787c750.jpg");
+            }
+        
+            .landscape-image{
+                border: 4px solid gold;
+                margin-left: 5%;
+                margin-right: 5%;
+                margin-bottom: 2%;
+                margin-top: 2%;
+                width:90%
+            }         
+            
+      
+            nav {
+                margin-left: 200px;
+            background-color:#F2305D;
+                margin-top: -5em;
+                margin-left: -1em;
+    line-height: 3em;
+                
+        }
+
+nav > ul{
+    display: flex;
+    list-style-type: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin-top:2px;
+    margin-left: 8em;
+}
+   
+
+nav a:link, nav a:visited{
+    color: ;
+    text-decoration: ;
+}
+nav a:hover {
+    text-decoration: underline;
+    color: aqua;
+}
+            
+            #seccion-1{background-color: #D64BD0;
+            }
+        
+            #seccion-2{background-color: #8B58D7;
+                            column-count:2;
+                column-gap: 0em;
+                padding: 1em;
+            }
+            .first-paragraph{
+                        margin-left: 50px;
+                        margin-bottom: 5px;
+                        margin-top: 2px;
+                        margin-right: 5px;
+                
+            }
+     .river-narrow{
+                border: 4px solid gold;
+                margin-left: 5px;
+                margin-bottom: 2px;
+                margin-right: 90px;
+            }   
+            
+            #right-col{
+                margin-right:5px;
+                margin-left:50px;
+                margin-top: 2px;
+                margin-bottom: 2px;
+            }
+            
+            #seccion-3{background-color: #BF03B7;
+                         column-count: 2;
+                column-gap: 1em;
+                padding: 1em;
+            }
+            
+            <div>.column{
+                         column-count:2;
+                column-gap: 0em;
+                padding: 1em;
+            }</div>
+            
+            .second-paragraph{
+                align-items: center;
+                margin-left: 70%;
+                margin-right: 5px;
+                margin-top: 2px;
+                margin-bottom: 2px;
+            }
+.rafting-rapids{
+     border: 4px solid gold;
+                margin-top: 2%;
+                margin-bottom:2%;
+                margin-right: 5%;
+                
+}
+            #seccion-4{background-color: #C9002F;
+                    
+            }
+            
+            .come {
+                align-content: center;
+                margin-top: 2px;
+                margin-left: 20%;
+                margin-right: 20%;
+                margin-bottom: 2px;
+            }
+            
+            a {
+                width: 20px;
+            }
+             .facebook-logo {
+                 height: 20px;
+                 width:auto;
+                margin-left:20px;
+            color:violet;
+        }
+              margin-right: 50%;
+                margin-left: 5px;
+                margin-top: -100px;
+                margin-bottom: -100px;
