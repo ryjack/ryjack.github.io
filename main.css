@@ -165,22 +165,53 @@ nav a:hover {
             color:violet;
         }
         
-.1{background-color:#D64BD0;
-     column-count:2;
+#seccion-7{background-color:#D64BD0;
+     column-count:3;
                 column-gap: 0em;
                 padding: 1em;
-    
+        
 }
 
-.2{background-color: #8B58D7;
+.highlights-1{
+    padding-bottom: -2em;
+}
+
+.paragraph-highlights{
+    padding:1em;
+}
+
+.encounters{
+    padding: 1em
+}
+.paragraph-wild{
+    padding:1em;
+    padding-top: -2em;
+}
+
+    .crazy-sarenity{
+    padding-top: 3em;
+        padding-bottom: 2em;
+}
+
+#seccion-8{background-color: #8B58D7;
      column-count: 2;
                 column-gap: 1em;
                 padding: 1em;
     
 }
 
-.3{background-color: #BF03B7;
+#seccion-9{
+    
+}
+
+#seccion-10{background-color: #BF03B7;
 }    
+
+#secction-25{
+    background-color: #8B58D7;
+}
+
+
 
 
 
