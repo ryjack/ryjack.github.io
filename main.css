@@ -55,7 +55,7 @@
       
             nav {
                 margin-left: 200px;
-            background-color:#F2305D;
+            background-color:#E52424;
                 margin-top: -5em;
                 margin-left: -1em;
     line-height: 3em;
@@ -74,8 +74,8 @@ nav > ul{
    
 
 nav a:link, nav a:visited{
-    color: ;
-    text-decoration: ;
+    color: solid black;
+    text-decoration: underline ;
 }
 nav a:hover {
     text-decoration: underline;
@@ -143,15 +143,15 @@ nav a:hover {
                 margin-right: 5%;
                 
 }
-            #seccion-4{background-color: #C9002F;
+            #seccion-4{background-color: #E52424;
                     
             }
             
             .come {
                 align-content: center;
                 margin-top: 2px;
-                margin-left: 20%;
-                margin-right: 20%;
+                margin-left: 25%;
+                margin-right: 10%;
                 margin-bottom: 2px;
             }
             
@@ -165,15 +165,22 @@ nav a:hover {
             color:violet;
         }
         
+#seccion-20 {background-color: #E52424;
+    column-count: 2;
+                column-gap: 1em;
+                padding: 1em;
+    
+}
+
 #seccion-7{background-color:#D64BD0;
      column-count:3;
                 column-gap: 0em;
                 padding: 1em;
-        
 }
 
 .highlights-1{
     padding-bottom: -2em;
+     border: 3px solid gold;
 }
 
 .paragraph-highlights{
@@ -181,14 +188,17 @@ nav a:hover {
 }
 
 .encounters{
-    padding: 1em
+    padding: 1em;
+        padding-bottom: -3em;
+     border: 3px solid gold;
 }
 .paragraph-wild{
     padding:1em;
-    padding-top: -2em;
+    padding-top: -3em;
 }
 
     .crazy-sarenity{
+        align-content: center;
     padding-top: 3em;
         padding-bottom: 2em;
 }
@@ -200,8 +210,15 @@ nav a:hover {
     
 }
 
-#seccion-9{
+#seccion-9{background-color: #8B58D7;
+     column-count: 2;
+                column-gap: 1em;
+                padding: 1em;
     
+}
+
+.last-run{
+     border: 3px solid gold;
 }
 
 #seccion-10{background-color: #BF03B7;
@@ -210,10 +227,6 @@ nav a:hover {
 #secction-25{
     background-color: #8B58D7;
 }
-
-
-
-
 
 
 
